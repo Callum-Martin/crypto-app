@@ -1,4 +1,4 @@
-#Crypto App
+# Crypto App
 
 Basic app that I created to refresh my react knowledge after the Christmas break. Fetch and displays data from an API.
 
