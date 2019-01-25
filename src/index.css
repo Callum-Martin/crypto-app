@@ -192,6 +192,15 @@ a {
   color: #9cb3c9;
   margin-right: 6px;
 }
+
+.percent-raised {
+  color: #00ff3b;
+}
+
+.percent-fallen {
+  color: #ff0000;
+}
+
 .Search {
   position: relative;
   width: 30%;
